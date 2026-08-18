@@ -1,21 +1,22 @@
 <h1 align="center">Hi there, I'm Alarif 👋</h1>
 
-<h3 align="center">Senior Automation Engineer | PowerShell 🤝 Microsoft 365 🤝 AI Agents</h3>
+<h3 align="center">PowerShell 🤝 Microsoft Graph API 🤝 AI Agent Architecture</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Automating+the+boring+stuff+since+forever;PowerShell+%7C+Microsoft+365+%7C+Entra+ID;Building+AI+agents+that+actually+ship;Turning+tickets+into+workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Scripting+my+way+out+of+repetitive+work;PowerShell+%7C+Graph+API+%7C+Entra+ID;Designing+agent+loops+and+tool+chains;If+it's+manual%2C+it's+probably+scriptable" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🧠 What I Know
 
-- 🔧 I'm a **Senior Automation Engineer** working across managed IT services, automating the workflows nobody wants to do by hand
-- ⚙️ Daily drivers: **PowerShell**, **Microsoft Graph API**, **Entra ID**, **ConnectWise PSA**, **NinjaOne RMM**
-- 🤖 Deep into **AI agent architecture** — building assistants, escalation ladders, and multi-agent workflows
-- 🧩 Recently shipped: onboarding/offboarding automation dashboards, multi-mailbox Graph API scripting at scale
+- ⚙️ **PowerShell scripting** — from single-mailbox scripts to multi-mailbox automation at scale using app-only Graph auth and Exchange RBAC
+- ☁️ **Microsoft 365 & Entra ID** — Graph API, SSO, identity and access, admin role hygiene
+- 🔁 **Workflow automation** — Power Automate, RMM/PSA integrations (NinjaOne, ConnectWise), no-code/low-code platforms like Rewst
+- 🤖 **AI agent architecture** — agent loops, tool design, multi-agent orchestration, escalation ladders across model tiers
+- 🗂️ **Agent memory patterns** — markdown-as-memory, external memory stores, structured skill libraries
+- 🐧 **Linux & self-hosting** — Ubuntu server infra, WSL2, headless deployment
 - 🇬🇧 Based in the UK — yes, it's "colour" not "color"
-- 💬 Ask me about: PowerShell scripting, Microsoft 365 automation, or agentic AI workflows
 
 ---
 
@@ -39,12 +40,12 @@
 
 ---
 
-### 🎯 Currently
+### 🎯 Currently Digging Into
 
-- 🔭 Building out a self-hosted AI agent stack with custom tool design and agent loops
-- 🧠 Experimenting with multi-agent orchestration and model-tier escalation ladders
-- 📚 Exploring markdown-as-memory patterns for persistent agent context
-- 🌱 Always learning something new about automating IT ops at scale
+- 🔭 Self-hosted AI agent stacks — inference backends, custom tool design, secure public exposure
+- 🧠 Multi-agent orchestration and model-tier escalation ladders
+- 📚 Markdown-as-memory patterns for persistent agent context
+- 🌱 Whatever the next layer of "why am I doing this by hand" turns out to be
 
 ---
 
