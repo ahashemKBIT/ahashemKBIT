@@ -16,7 +16,6 @@
 - 🤖 **AI agent architecture** — agent loops, tool design, multi-agent orchestration, escalation ladders across model tiers
 - 🗂️ **Agent memory patterns** — markdown-as-memory, external memory stores, structured skill libraries
 - 🐧 **Linux & self-hosting** — Ubuntu server infra, WSL2, headless deployment
-- 🇬🇧 Based in the UK — yes, it's "colour" not "color"
 
 ---
 
